@@ -4,8 +4,6 @@ Exercicio de gestao de uma biblioteca
 
 # Requisitos
 
-⚠️ **PULL REQUESTS COM ISSUES NO LINTER NÃO SERÃO AVALIADAS. ATENTE-SE PARA RESOLVÊ-LAS ANTES DE FINALIZAR O DESENVOLVIMENTO!** ⚠️
-
 ## 1. Filtre todos os objetos do gênero ficção científica ou fantasia.
 
 <details>
